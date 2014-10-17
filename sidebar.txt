@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lid:home|Door43 (lid)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lid|d43-lid repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lid/archive/master.zip|d43-lid.zip]]
+
+**Recent Changes**
+{{changes>ns = lid}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lid|Ethnologue data]]
+
